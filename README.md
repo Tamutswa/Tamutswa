@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tamutswa Matondo
+# 👋 Hey, I'm Tamutswa Matondo
 
 🚀 Frontend Developer | 🌐 Full-Stack Developer | 🤖 AI Enthusiast
 
