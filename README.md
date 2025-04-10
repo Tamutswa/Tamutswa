@@ -1,60 +1,53 @@
-
-# 👋 Hi there, I'm Tamutswa Matondo
+# 👋 Hi, I'm Tamutswa Matondo
 
 🚀 Frontend Developer | 🌐 Full-Stack Developer | 🤖 AI Enthusiast
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm Tamutswa, a passionate developer who thrives at the intersection of **beautiful UI** and **powerful functionality**. I specialize in crafting responsive, user-friendly web applications using modern frontend frameworks—while also having a solid grasp of full-stack development to bring entire projects to life.
+I'm a passionate developer who enjoys building clean, responsive, and user-friendly web applications. My background is in **frontend development**, but I also work across the stack to bring full products to life—from database to deployment.
 
-Lately, my curiosity has been pulling me deeper into the world of **Artificial Intelligence**—from exploring machine learning frameworks to experimenting with AI-assisted development tools.
+Lately, I've been diving into **Artificial Intelligence**, exploring how it can enhance the way we develop and interact with technology. I’m always curious, always learning, and always looking to collaborate with other developers.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 **Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
 - React.js, Next.js, TypeScript
-- Tailwind CSS, Sass, Styled Components
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Sass
 
 **Backend:**
 - Node.js, Express.js
 - MongoDB, PostgreSQL
-- RESTful APIs, GraphQL
+- REST APIs, GraphQL
 
-**Other Tools:**
+**Tools & Others:**
 - Git & GitHub
 - Docker
 - Firebase
-- Figma
+- Figma (UI/UX Design)
 
 ---
 
-## 🔭 Current Goals
+## 🔭 What I'm Up To
 
-- Dive deeper into AI & machine learning with a developer-first mindset.
-- Build open-source tools that blend frontend magic with intelligent features.
-- Collaborate on cool projects with like-minded devs across the globe!
+- Exploring AI and its role in software development
+- Building full-stack apps that solve real-world problems
+- Contributing to open-source projects
+- Looking to collaborate with other developers on exciting ideas
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always open to collaborations, brainstorming sessions, or just techy conversations. If you're building something exciting or just want to chat about code and creativity—**reach out!**
+I'm always open to meaningful connections—whether it's a collaborative project, a technical chat, or an opportunity to learn together.
 
-- 📫 [Email Me](mailto:tamutswa.matondo@example.com)
+- 📫 [Email Me](mailto:tamutswa.matondo04@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamutswa-matondo)
-- 🧠 [Portfolio](https://tamutswamatondo.dev) *(if available)*
-
----
-
-## 📈 GitHub Stats
-
-![Tamutswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamutswamatondo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamutswamatondo&layout=compact&theme=radical)
+- 🧠 [Portfolio](https://tamutswamatondo.dev)
 
 ---
 
@@ -62,7 +55,7 @@ I'm always open to collaborations, brainstorming sessions, or just techy convers
 
 - I believe clean code is poetry ✍️
 - Dark mode is a lifestyle 😎
-- If I'm not coding, I'm probably reading about the future of AI 🚀
+- If I'm not coding, I'm probably reading about the future of AI 🚀, at least that is what it says on my Vision Board...😏
 
 ---
 
