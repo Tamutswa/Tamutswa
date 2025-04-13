@@ -1,12 +1,14 @@
 # 👋 Hey, I'm Tamutswa Matondo
 
-🚀 Web Developer | 🌐 Full-Stack Developer | 🤖 AI Enthusiast
+🚀 Web Developer | 🌐 Full-Stack Capabilities | 🤖 AI Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building clean, responsive, and user-friendly web applications. My background is in **web development**, but I also work across the stack to bring full products to life—from database to deployment.
+I'm a passionate **web developer** focused on building robust, scalable, and user-centric web applications. I enjoy working across the entire development lifecycle—from initial concept and design considerations to backend logic, database management, and deployment.
+
+While I have strong skills in **frontend technologies** for creating engaging user interfaces, I'm equally comfortable diving into the **backend** to ensure seamless functionality and performance. My goal is to bring complete digital products to life.
 
 Lately, I've been diving into **Artificial Intelligence**, exploring how it can enhance the way we develop and interact with technology. I’m always curious, always learning, and always looking to collaborate with other developers.
 
