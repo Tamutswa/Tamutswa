@@ -46,7 +46,7 @@ Lately, I've been diving into **Artificial Intelligence**, exploring how it can 
 I'm always open to meaningful connections—whether it's a collaborative project, a technical chat, or an opportunity to learn together.
 
 - 📫 [Email Me](mailto:tamutswa.matondo04@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tamutswa-matondo)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tamutswa-matondo-93075a35b/)
 - 🧠 [Portfolio](https://tamutswamatondo.dev)
 
 ---
